@@ -1,3 +1,6 @@
+#matrix multiplication
+
+
 p = int(input("Enter the number of rows for Matrix 1: "))
 n = int(input("Enter the number of columns for Matrix 1 (and rows for Matrix 2): "))
 q = int(input("Enter the number of columns for Matrix 2: "))
@@ -13,3 +16,5 @@ for i in range(p):
 
 for row in result:
     print(*row)
+
+

@@ -1,3 +1,5 @@
+#wordcount -1 program
+
 file = open('./txt', 'r')
 
 wordcount = {}

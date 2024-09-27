@@ -1,3 +1,6 @@
+#Full pyramid
+
+
 row = int(input('Enter the number'))
 
 

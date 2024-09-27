@@ -1,3 +1,6 @@
+#linear search
+
+
 def linear_search(list):
     search= int(input('Enter the search element: '))
     flag = 0

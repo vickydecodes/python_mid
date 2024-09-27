@@ -1,3 +1,5 @@
+#prime numbers
+
 lower = int(input('Enter the number: '))
 upper = int(input('Enter the number: '))
 
