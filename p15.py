@@ -10,7 +10,7 @@ for word in file.read().split():
 
 print(wordcount)
 
-maxno = 5
+maxno = 0
 
 for key in wordcount.keys():
     if wordcount[key] > maxno:
