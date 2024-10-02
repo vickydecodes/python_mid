@@ -1,3 +1,5 @@
+#wordcount 2
+
 file = open('D:/Documents/semesterpy/txt3.txt', 'r')
 
 wordcount = {}
@@ -10,7 +12,7 @@ for word in file.read().split():
 
 print(wordcount)
 
-maxno = 0
+maxno = 5
 
 for key in wordcount.keys():
     if wordcount[key] > maxno:
@@ -20,3 +22,5 @@ for key in wordcount.keys():
 for key in wordcount.keys():
     if wordcount[key] == maxno:
         print(key)
+        
+        

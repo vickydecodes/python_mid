@@ -1,3 +1,5 @@
+#selection sort
+
 list = []
 length = int(input('Enter the length: '))
 for i in range(length):

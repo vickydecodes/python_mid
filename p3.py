@@ -9,5 +9,3 @@ base = int(input('Enter the number: '));
 exp = int(input('Enter the number: '))
 
 print(f'{power(base, exp)}')
-    
-    

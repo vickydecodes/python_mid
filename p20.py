@@ -1,0 +1,13 @@
+str1 = input('Enter the string1: ')
+str2 = input('Enter the string2: ')
+str3 = input('Enter the string3: ')
+
+print(str1)
+print(str2)
+print(str3)
+print(str1 + str2)
+print(str1 * 3)
+print(str3[::-1])
+print(str3[-1: -3: -1]) 
+print(str1[0])
+print(str3[4: -1])
